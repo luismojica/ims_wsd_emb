@@ -17,14 +17,28 @@ https://github.com/iiacobac/ims_wsd_emb
 	<Strategy CON, AVG, FRA, EXP> : Integration strategy, best results with FRA and EXP.
 ```
 
+## Requirements
+
+   Java 1.8
+
 ## Reference
+
+Main paper to be cited
+
+	@InProceedings{iiacobac-evaluation:2016:,
+	  author    = {I. Iacobacci, M. T. Pilehvar and R. Navigli.},
+	  title     = {Embeddings for Word Sense Disambiguation: An Evaluation Study},
+	  year      = {ACL 2016},
+	}
+
+============================================
 
 This software is based in IMS (It Makes Sense) 
 
 IMS (It Makes Sense) -- NUS WSD system  
 Copyright (c) 2010 National University of Singapore.  
 
-        Zhong, Zhi and Ng, Hwee Tou. 2010. It Makes Sense: A Wide-Coverage Word Sense Disambiguation System for Free Text. In Proceedings of the ACL 2010 System Demonstrations, pages 78--83, Uppsala,
+	Zhong, Zhi and Ng, Hwee Tou. 2010. It Makes Sense: A Wide-Coverage Word Sense Disambiguation System for Free Text. In Proceedings of the ACL 2010 System Demonstrations, pages 78--83, Uppsala,
 
 
 
