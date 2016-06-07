@@ -28,13 +28,13 @@ Copyright (c) 2010 National University of Singapore.
 
 ## Support
 
-For more information, bug reports, fixes, please contact:
-Ignacio Iacobacci
-Department of Computer Science
-Viale Regina Elena 295b 
-Sapienza University of Rome
-Rome, 
-iacobacci[at]di[dot]uniroma1[dot]it
+For more information, bug reports, fixes, please contact.
+Ignacio Iacobacci.
+Department of Computer Science.
+Viale Regina Elena 295b.
+Sapienza University of Rome.
+Rome. 
+iacobacci[at]di[dot]uniroma1[dot]it.
 http://iiacobac.wordpress.com/
 
 ## License
