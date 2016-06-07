@@ -21,8 +21,8 @@ https://github.com/iiacobac/ims_wsd_emb
 
 This software is based in IMS (It Makes Sense) 
 
-IMS (It Makes Sense) -- NUS WSD system
-Copyright (c) 2010 National University of Singapore.
+IMS (It Makes Sense) -- NUS WSD system  
+Copyright (c) 2010 National University of Singapore.  
 
         Zhong, Zhi and Ng, Hwee Tou. 2010. It Makes Sense: A Wide-Coverage Word Sense Disambiguation System for Free Text. In Proceedings of the ACL 2010 System Demonstrations, pages 78--83, Uppsala,
 
@@ -30,17 +30,17 @@ Copyright (c) 2010 National University of Singapore.
 
 ## Support
 
-For more information, bug reports, fixes, please contact:
+For more information, bug reports, fixes, please contact:  
 
-Ignacio Iacobacci
-Department of Computer Science
-Viale Regina Elena 295b
-Sapienza University of Rome
-Rome, Italy
-iacobacci[at]di[dot]uniroma1[dot]it
-http://iiacobac.wordpress.com/
+Ignacio Iacobacci  
+Department of Computer Science  
+Viale Regina Elena 295b  
+Sapienza University of Rome  
+Rome, Italy  
+iacobacci[at]di[dot]uniroma1[dot]it  
+http://iiacobac.wordpress.com/  
 
 ## License
 
-IMS EMBED is an output of the MultiJEDI ERC Starting Grant No. 259234. 
+IMS EMBED is an output of the MultiJEDI ERC Starting Grant No. 259234.  
 IMS EMBED is licensed under a [Creative Commons Attribution - Noncommercial - Share Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) License.
