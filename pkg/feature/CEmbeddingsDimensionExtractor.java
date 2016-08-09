@@ -1,7 +1,10 @@
 /**
- * IMS (It Makes Sense) -- NUS WSD System
- * Copyright (c) 2010 National University of Singapore.
- * All Rights Reserved.
+ * IMS EMBED is an extension of the original IMS system 
+ * 
+ * @author: iiacobac
+ *
+ * IMS EMBED is an output of the MultiJEDI ERC Starting Grant No. 259234.
+ * IMS EMBED is licensed under a Creative Commons Attribution - Noncommercial - Share Alike 3.0 License.
  */
 package pkg.feature;
 
