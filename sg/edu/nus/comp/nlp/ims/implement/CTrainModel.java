@@ -423,16 +423,18 @@ public class CTrainModel {
 			if (argmgr.has("type")) {
 				type = argmgr.get("type");
 			}
-			if (argmgr.size() != 3) { // check arguments
-				throw new IllegalArgumentException(generalOptions);
-			}
+//			if (argmgr.size() != 3) { // check arguments
+//				throw new IllegalArgumentException(generalOptions);
+//			}
 			if (!argmgr.has("prop")) {
 				System.err.println("prop.xml file for JWNL has not been set.");
 				throw new IllegalArgumentException(generalOptions);
 			}
 			CJWNL.initial(new FileInputStream(argmgr.get("prop")));
-			File trainXmlDir = new File(argmgr.get(0));
-			File trainKeyDir = new File(argmgr.get(1));
+//			File trainXmlDir = new File(argmgr.get(0));
+//			File trainKeyDir = new File(argmgr.get(1));
+			File trainXmlDir = new File("/Users/luis/Downloads/embeddings_ims-master/EnglishLS.train/EnglishLS.train.xml");
+			File trainKeyDir = new File("/Users/luis/Downloads/embeddings_ims-master/EnglishLS.train/EnglishLS.train.key");
 
 			// set model writer
 			String writerName = CModelWriter.class.getName();
@@ -441,7 +443,8 @@ public class CTrainModel {
 			}
 			IModelWriter writer = (IModelWriter) Class.forName(writerName)
 					.newInstance();
-			writer.setOptions(new String[] { "-m", argmgr.get(2) });
+//			writer.setOptions(new String[] { "-m", argmgr.get(2) });
+			writer.setOptions(new String[] { "-m", "data_luis" });
 
 			// set sentence splitter
 			if (argmgr.has("split")) {

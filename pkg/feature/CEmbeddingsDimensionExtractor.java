@@ -78,6 +78,7 @@ public class CEmbeddingsDimensionExtractor implements IFeatureExtractor {
 			String line;
 
 			while ((line = reader.readLine()) != null) {
+				System.out.println(line);
 				try {
 					final String actualLine = line;
 					String array[] = actualLine.split(" ");

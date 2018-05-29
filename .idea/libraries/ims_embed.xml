@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ims_embed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ims_embed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+# ignore an entire directory
+/out/
+
+# ignore a file type
+*.class
